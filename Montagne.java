@@ -19,4 +19,9 @@ class Montagne
 		return this.altit;
 	}
 
+	public String toString()
+	{
+		return this.mont+" : "+this.altit+" m ";
+	}
+
 }

@@ -18,6 +18,11 @@ class Montagne
 	{
 		return this.altit;
 	}
+	
+	public void setMont()
+	{
+		this.mont=mont;
+	}
 
 	public String toString()
 	{
